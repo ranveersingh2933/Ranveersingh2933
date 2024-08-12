@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/16582038/README.md)<a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px"/></a>
+[README.md](https://github.com/user-attachments/files/16582038/README.md)<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FCryptic-Coding&psig=AOvVaw0u05tD-JIiBRAUV2RGu183&ust=1723555287056000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJj3-f_F74cDFQAAAAAdAAAAABAE" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="31px">, I'm Ranveer</h1>
 
