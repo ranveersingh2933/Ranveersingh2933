@@ -1,3 +1,11 @@
+[README.md](https://github.com/user-attachments/files/16582038/README.md)<a href="#"><img width="100%" height="auto" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="31px">, I'm Ranveer</h1>
+
+
+## 🙋‍♂️ About Me
+
+
 ## Hi there 👋, I'm Ranveer
 
 <!--
