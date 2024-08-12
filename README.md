@@ -1,7 +1,8 @@
-[README.md](https://github.com/user-attachments/files/16582038/README.md)<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FCryptic-Coding&psig=AOvVaw0u05tD-JIiBRAUV2RGu183&ust=1723555287056000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJj3-f_F74cDFQAAAAAdAAAAABAE" height="175px"/></a>
+[README.md](https://github.com/user-attachments/files/16582038/README.md)<a href="#"><img width="100%" height="auto" src="![dynixi5mm4tuqa3rjvm3](https://github.com/user-attachments/assets/bef5f5ee-73a5-454b-895f-1aafb62a1a24)" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="31px">, I'm Ranveer</h1>
 
+![Uploading dynixi5mm4tuqa3rjvm3.jpg…]()
 
 ## 🙋‍♂️ About Me
 
